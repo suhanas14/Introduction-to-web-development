@@ -1,0 +1,9 @@
+.container{
+    color:aqua;
+    background-color:brown;
+    padding: 24px;
+    border: 2px solid;
+    margin-top:24px;
+    text-align:center;
+    font: size 24px;
+}
